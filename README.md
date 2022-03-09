@@ -4,7 +4,7 @@
 
 ## About me
 
-After over a decade in the Service Industry, I decided to pursue a career in Software Development. I got the opportunity to go back to school at Ivy Tech Community College in 2020 for a Certificate in Web Application Development. I jumped at the chance to connect my love of technology and my passion for solving puzzles. After successfully completing that set of courses as a Summa Cum Laude graduate, I decided to continue to build on my newly found skills. I joined an Apprenticeship with Nashville Software School in November of 2021 to enhance my abiity to not only learn new languages, but to learn to work as a team in a simulated work environment. 
+After over a decade in the Service Industry, I decided to pursue a career in Software Development. I got the opportunity to go back to school at Ivy Tech Community College in 2020 for a Certificate in Web Application Development. I jumped at the chance to connect my love of technology and my passion for solving puzzles. After successfully completing that set of courses as a Summa Cum Laude graduate, I decided to continue to build on my newly found skills. I joined an Apprenticeship with Nashville Software School in November of 2021 to enhance my ability to not only learn new languages, but to learn to work as a team in a simulated work environment. 
 
 
 
